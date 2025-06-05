@@ -207,20 +207,4 @@ mkdir test
 ls
 ```
 
-### Vérifier que le dossier "test" apparaît sur Windows.
 
----
-
-## ➕ Pied de page personnalisé
-
-(Pas de contenu clair ici, à développer si nécessaire)
-
----
-
-## 🔁 Clonage local du wiki (optionnel)
-
-(Pas d’instruction donnée, à préciser)
-
----
-
-Souhaites-tu que je te prépare ce guide en PDF ou dans un format Markdown prêt à être partagé ?
